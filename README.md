@@ -4,3 +4,4 @@
 | [Open Street Maps](https://github.com/HelmerAGomez/Open-Street-Maps.git) |A program that calculates the shortest path to a given location from UIC's East Campus. |
 | [Huffman Encoding](https://github.com/HelmerAGomez/Huffman-Encoding.git) | A program that does lossless compression on a file given by the user. |
 | [Language Identification](https://github.com/HelmerAGomez/Language-Identification.git)| A program that has can guess the language of text file from 220 languages. |
+| [Tower of Hanoi](https://github.com/HelmerAGomez/Tower-of-Hanoi.git) | Created a game that simulates the Tower of Hanoi game. |

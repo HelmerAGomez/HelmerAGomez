@@ -6,6 +6,7 @@ At the moment, I am learning React and Flask. My current goal is to develop an a
 
 
 Languages: Java, Python, C/C++
+
 Academic: Program Design, Programming Practicum, Data Structures, Advanced Data Structure
 Practicum, Software Design, Languages and Automata
 

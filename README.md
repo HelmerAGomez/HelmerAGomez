@@ -15,8 +15,8 @@ Practicum, Software Design, Languages and Automata
 
 | Projects | Description |
 | --- | --- |
+| [Focus Garden](https://github.com/HelmerAGomez/Focus-Garden.git) | Created a full stack application that helps users reduce screen time. |
 | [Word Ladder Builder](https://github.com/HelmerAGomez/Word-Ladder-Builder.git) | A console program that simulates the game word ladder. |
 | [Open Street Maps](https://github.com/HelmerAGomez/Open-Street-Maps.git) |A program that calculates the shortest path to a given location from UIC's East Campus. |
 | [Huffman Encoding](https://github.com/HelmerAGomez/Huffman-Encoding.git) | A program that does lossless compression on a file given by the user. |
 | [Language Identification](https://github.com/HelmerAGomez/Language-Identification.git)| A program that has can guess the language of text file from 220 languages. |
-| [Tower of Hanoi](https://github.com/HelmerAGomez/Tower-of-Hanoi.git) | Created a game that simulates the Tower of Hanoi game. |

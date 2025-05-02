@@ -16,6 +16,7 @@ Practicum, Software Design, Languages and Automata
 | Projects | Description |
 | --- | --- |
 | [Focus Garden](https://github.com/HelmerAGomez/Focus-Garden.git) | Created a full stack application that helps users reduce screen time. |
+| [Weather App](https://github.com/HelmerAGomez/Weather-App.git) | Created a weather app in Java with dynamic elements. |
 | [Word Ladder Builder](https://github.com/HelmerAGomez/Word-Ladder-Builder.git) | A console program that simulates the game word ladder. |
 | [Open Street Maps](https://github.com/HelmerAGomez/Open-Street-Maps.git) |A program that calculates the shortest path to a given location from UIC's East Campus. |
 | [Huffman Encoding](https://github.com/HelmerAGomez/Huffman-Encoding.git) | A program that does lossless compression on a file given by the user. |
